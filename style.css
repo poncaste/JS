@@ -1,13 +1,4 @@
 body {
-    background: #4b6cb7;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
-h1, p, a {
-    font-family: 'Carrois Gothic SC', sans-serif;
-    display: block;
-    text-align: center;
-    line-height:.8;
-    color: white;
+    background: rgb(238,174,202);
+    background: linear-gradient(41deg, rgba(238,174,202,1) 39%, rgba(148,187,233,0.6924894957983193) 100%);
 }
